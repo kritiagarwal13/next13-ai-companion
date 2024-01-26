@@ -1,5 +1,5 @@
 ## Fullstack AI based platform: Next.js 13, React, Convex, Tailwind
-![ai-companion-mainpage-dark](https://github.com/kritiagarwal13/next13-ai-companion/assets/25651879/5f903077-d7a3-4871-b594-72de3af76d19)
+![ai-companion-mainpage-dark](https://github.com/kritiagarwal13/next13-ai-companion/assets/25651879/5f903077-d7a3-4871-b594-72de3af76d19) ![ai-companion-chat](https://github.com/kritiagarwal13/next13-ai-companion/assets/25651879/4a9091ea-16e0-4bc6-bdf7-02769e4262aa)
 This is a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe.
 
 **Features:**
